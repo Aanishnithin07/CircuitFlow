@@ -53,6 +53,6 @@ CircuitFlow offers a complete workflow for boolean expression analysis:
 * **AANISH NITHIN A** (RA2411003010070)
 * **AJAY DHARRSAN TR** (RA2411003010071)
 
----
+-------------------------------------------
 
 *COA - Project Submission*
